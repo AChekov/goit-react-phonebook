@@ -1,0 +1,13 @@
+import { Component } from 'react';
+// import { nanoid } from 'nanoid';
+
+export class App extends Component {
+  state = {
+    contacts: [],
+    name: '',
+  };
+
+  render() {
+    return <appContainer>Phonebook</appContainer>;
+  }
+}
