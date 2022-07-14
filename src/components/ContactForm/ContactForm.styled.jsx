@@ -8,8 +8,6 @@ export const Form = styled.form`
 `;
 
 export const Label = styled.label`
-  width: 100%;
-  padding: 0;
   margin: 10px 0 10px 0;
   display: flex;
   justify-content: center;
